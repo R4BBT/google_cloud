@@ -1,1 +1,1 @@
-# google_cloud
+# This is a repo created for Google Cloud certifications
