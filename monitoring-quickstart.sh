@@ -12,5 +12,8 @@ sudo apt-get install google-fluentd -y
 sudo apt-get install google-fluentd-catch-all-config-structured -y 
 sudo service google-fluentd start
 
+sudo apt-get install apache2 php7.0 -y
+
 sudo systemctl status stackdriver-agent
 sudo systemctl status google-fluentd
+
