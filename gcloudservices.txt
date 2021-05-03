@@ -1,0 +1,13 @@
+#Enable gcloud services 
+
+gcloud services enable serviceusage.googleapis.com \
+servicenetworking.googleapis.com \
+compute.googleapis.com \
+logging.googleapis.com \
+bigquery.googleapis.com \
+cloudresourcemanager.googleapis.com \
+cloudbilling.googleapis.com \
+iam.googleapis.com \
+admin.googleapis.com \
+appengine.googleapis.com \
+storage-api.googleapis.com
